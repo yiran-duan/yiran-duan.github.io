@@ -15,7 +15,8 @@ Greetings! I'm a PhD student at the Syracuse University iSchool. My research int
 ## Research
 
 1. Qualitative Research: how some users of [Dribbble.com](https://dribbble.com) think their practices on this platform change the design industry and design education. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.604).
-2. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial using #BlackLivesMatter and #BlueLivesMatter. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.689).
+
+3. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial using #BlackLivesMatter and #BlueLivesMatter. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.689).
 
 ## Teaching
 
@@ -23,6 +24,6 @@ A recitation section of IST 343 Data in Society for Fall 2022.
 
 ## Life
 
-When I'm not working on my research projects, I like to swim and play with my mini Austrilian Sheperd, Mia.
+When I'm not working on my research projects, I like to swim and play with my mini Australian Sheperd, Mia.
 
 
