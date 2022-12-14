@@ -8,5 +8,5 @@ date: 2022-07-18
 location: "Online / Toronto, Canada"
 ---
 
-[YouTube link here](https://www.youtube.com/watch?v=Krq35G5YSms)
+YouTube link [here](https://www.youtube.com/watch?v=Krq35G5YSms)
 
