@@ -14,9 +14,12 @@ Greetings! I'm a PhD candidate at the iSchool of Syracuse University. My researc
 
 ## Research
 
-1. Qualitative Research: how some users of [Dribbble.com](https://dribbble.com) think their practices on this platform impact the design industry and design education. Method: semi-structured interview & Fisher's test. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.604). ![This is an image](https://yiran-duan.github.io/images/dribbble.jpg) (Yes, I blurred th 30 participants' faces in this picture to protect privacy :] It only shows the other reseracher and me.)
+1. Qualitative Research: how some users of [Dribbble.com](https://dribbble.com) think their practices on this platform impact the design industry and design education. Method: semi-structured interview & Fisher's test. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.604). 
+![This is an image](https://yiran-duan.github.io/images/dribbble.jpg)
+(Yes, I blurred th 30 participants' faces in this picture to protect privacy :] It only shows the other reseracher and me.)
 
-2. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial containing the hashtags of #BlackLivesMatter and #BlueLivesMatter. Method: Text annotation & machine learning. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.689).![This is an image](https://yiran-duan.github.io/images/retweets.jpg)
+2. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial containing the hashtags of #BlackLivesMatter and #BlueLivesMatter. Method: Text annotation & machine learning. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.689).
+![This is an image](https://yiran-duan.github.io/images/retweets.svg)
 
 ## Teaching
 
