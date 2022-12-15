@@ -10,7 +10,7 @@ redirect_from:
 
 # Home
 
-Greetings! I'm a PhD candidate at the [Syracuse University iSchool](https://ischool.syr.edu). My research interest is in online opinion leaderships, espeically in the context of social movements and climate change debates. I'm lucky enough to be advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (interview) and quantitative (machine learning, statistical analysis) methods to conduct my research.
+Greetings! I'm a PhD candidate at the [Syracuse University iSchool](https://ischool.syr.edu). My research interest is in online opinion leaderships, espeically in the context of social movements and climate change debates. I'm lucky enough to be advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (interview) and quantitative (machine learning, statistical analysis) methods to conduct my research. I've also been learning Python to gain a better understanding of my tweet collections.
 
 ## Research
 
