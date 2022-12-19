@@ -14,14 +14,10 @@ Greetings! I'm a PhD candidate at the [Syracuse University iSchool](https://isch
 
 ## Research
 
-1. Qualitative Research: how some users of [Dribbble.com](https://dribbble.com) think their practices on this platform impact the design industry and design education. Method: semi-structured interview & Fisher's test. Read our work [here](https://www.researchgate.net/profile/Jeff-Hemsley/publication/364431394_Disrupting_Design_A_Multi-level_Technological_Transition_Study_of_Dribbblecom/links/635173218d4484154a1bd901/Disrupting-Design-A-Multi-level-Technological-Transition-Study-of-Dribbblecom.pdf). 
-
-![This is an image](https://yiran-duan.github.io/images/dribbble.jpg)
+1. Qualitative Research: how some users of [Dribbble.com](https://dribbble.com) think their practices on this platform impact the design industry and design education. Method: semi-structured interview & Fisher's test. Read our work [here](https://www.researchgate.net/profile/Jeff-Hemsley/publication/364431394_Disrupting_Design_A_Multi-level_Technological_Transition_Study_of_Dribbblecom/links/635173218d4484154a1bd901/Disrupting-Design-A-Multi-level-Technological-Transition-Study-of-Dribbblecom.pdf). ![This is an image](https://yiran-duan.github.io/images/dribbble.jpg)
 (Yes, I blurred th 30 participants' faces in this picture to protect their privacy :] It only shows the other reseracher's and mine.)
 
-2. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial containing the hashtags of #BlackLivesMatter and #BlueLivesMatter. Method: Text annotation & machine learning. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.689).
-
-![This is an image](https://yiran-duan.github.io/images/retweets.svg)
+2. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial containing the hashtags of #BlackLivesMatter and #BlueLivesMatter. Method: Text annotation & machine learning. Read our work [here](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.689).![This is an image](https://yiran-duan.github.io/images/retweets.svg)
 
 ## Teaching
 
