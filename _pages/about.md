@@ -17,11 +17,12 @@ Greetings! I'm a PhD candidate at the [Syracuse University iSchool](https://isch
 1. Qualitative Research: how some users of [Dribbble.com](https://dribbble.com) think their practices on this platform impact the design industry and design education. Method: semi-structured interview & Fisher's test. Read our work [here](https://journals.sagepub.com/doi/pdf/10.1177/20563051241228601). ![This is an image](https://yiran-duan.github.io/images/dribbble.jpg)
 (Yes, I blurred th 30 participants' faces in this picture to protect their privacy :] It only shows the other reseracher's and mine.)
 
-2. Quantitative Research: what kinds of information got spreaded the most about Derek Chauvin's trial containing the hashtags of #BlackLivesMatter and #BlueLivesMatter. Method: Text annotation & machine learning. Read our work [here](https://journals.sagepub.com/doi/pdf/10.1177/20563051241242799).![This is an image](https://yiran-duan.github.io/images/retweets.svg)
+2. Quantitative Research: what kinds of information got posted and spread during the Black History month of 2022. Methods: content analysis, machine learning models, and data visualization. Read our work [here](https://journals.sagepub.com/doi/pdf/10.1177/20563051241242799).![This is an image](https://yiran-duan.github.io/images/retweets.svg)
 
 ## Teaching
 
-A recitation section of IST 343 Data in Society for Fall 2022 and Spring 2023. For Fall 2024, I am teaching IST 719 Data Visualization, a class doing data analysis and visualization using R.
+A recitation section of IST 343 Data in Society for Fall 2022 and Spring 2023.
+For Fall 2024, I am teaching IST 719 Data Visualization, a class doing data analysis and visualization using R.
 
 ## Life
 
