@@ -12,7 +12,7 @@ redirect_from:
 
 **I am on the 2024 -2025 job market!** 
 
-Greetings! I'm a PhD candidate at the [Syracuse University School of Information Studies (the iSchool)](https://ischool.syr.edu). My research explores information flows and the key actors involved, particularly across different social media platforms. My reserach topics are social and enviromental justice, such as the #Black/Blue/AllLivesMatter and climate change. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis) methods to conduct my research.
+Greetings! I'm a PhD candidate (ABD) at the [Syracuse University School of Information Studies (the iSchool)](https://ischool.syr.edu). My research explores information flows and the key actors involved, particularly across different social media platforms. My reserach topics are social and enviromental justice, such as #Black/Blue/AllLivesMatter and climate change. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis, and data visualization) methods to conduct my research.
 
 ## Research
 
@@ -32,6 +32,8 @@ IST 719 Data Visualization for Fall 2024. It's a master's and PhD level class th
 
 ## Life
 
-When I'm not working on my research projects, I like to swim and play with my dog Mia.![This is an image](https://yiran-duan.github.io/images/Mia-copy.jpeg)
+When I'm not working on my research projects, I like to swim and play with my dog Mia.
+
+![This is an image](https://yiran-duan.github.io/images/Mia-copy.jpeg)
 
 
