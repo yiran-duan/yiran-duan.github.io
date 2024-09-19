@@ -12,12 +12,12 @@ redirect_from:
 
 **I am on the 2024 -2025 job market!** 
 
-Greetings! I'm a PhD candidate at the [Syracuse University iSchool](https://ischool.syr.edu). My research explores information flows and the key actors involved, particularly across different social media platforms. My reserach topics are social and enviromental justice, such as the #Black/Blue/AllLivesMatter and climate change. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis) methods to conduct my research.
+Greetings! I'm a PhD candidate at the [Syracuse University School of Information Studies (the iSchool)](https://ischool.syr.edu). My research explores information flows and the key actors involved, particularly across different social media platforms. My reserach topics are social and enviromental justice, such as the #Black/Blue/AllLivesMatter and climate change. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis) methods to conduct my research.
 
 ## Research
 
 1. Qualitative Research: An interview study that explores how [Dribbble.com](https://dribbble.com) influences, and influenced by its users' practice and the design industry. Method: semi-structured interview & Fisher's test. Read our work that published in _Social Media + Society_ [here](https://journals.sagepub.com/doi/pdf/10.1177/20563051241228601). ![This is an image](https://yiran-duan.github.io/images/dribbble.jpg)
-(Yes, I blurred th 30 participants' faces in this picture to protect their privacy :] It only shows the other reseracher's and mine.)
+(Yes, I blurred th 30 participants' faces in this picture to protect their privacy :] It only shows the other interviewer's and mine.)
 
 2. Quantitative Research: A study that investigates what kinds of information about #Black/Blue/AllLivesMatter got posted and spread during the Black History month of 2022. Methods: content analysis, machine learning models, and data visualization. Read our work that published in _Social Media + Society_ [here](https://journals.sagepub.com/doi/pdf/10.1177/20563051241242799).![This is an image](https://yiran-duan.github.io/images/BLM-SMS-journal-pic.png)
 
@@ -32,6 +32,6 @@ IST 719 Data Visualization for Fall 2024. It's a master's and PhD level class th
 
 ## Life
 
-When I'm not working on my research projects, I like to swim and play with my dog Mia.![This is an image](https://yiran-duan.github.io/images/Mia.jpeg)
+When I'm not working on my research projects, I like to swim and play with my dog Mia.![This is an image](https://yiran-duan.github.io/images/Mia-copy.jpeg)
 
 
