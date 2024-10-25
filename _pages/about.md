@@ -12,7 +12,7 @@ redirect_from:
 
 **I am on the 2024 -2025 job market!** 
 
-Greetings! I'm a PhD candidate (ABD) in the [School of Information Studies at Syracuse University (the iSchool)](https://ischool.syr.edu). My research explores information flows and the key actors involved, particularly across different social media platforms. My reserach topics are social and enviromental justice, such as #Black/Blue/AllLivesMatter and climate change. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis, and data visualization) methods to conduct my research.
+Greetings! I'm a PhD candidate (ABD) in the [School of Information Studies at Syracuse University (the iSchool)](https://ischool.syr.edu). My research sits at the intersection of computational social science, social media studies, and environmental and social justice. My research explores how users discuss environmental and social justice issues on social media platforms using data science approaches such as machine learning models, inferential statistics, and data visualization. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis, and data visualization) methods to conduct my research.
 
 ## Research
 
