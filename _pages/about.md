@@ -12,7 +12,7 @@ redirect_from:
 
 **I am on the 2024 -2025 job market!** 
 
-Greetings! I'm a PhD candidate (ABD) in the [School of Information Studies at Syracuse University (the iSchool)](https://ischool.syr.edu). My research sits at the intersection of computational social science, social media studies, and environmental and social justice. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (semi-structured interview) and quantitative (machine learning models, statistical analysis, and data visualization) methods to conduct my research.
+Greetings! I'm a PhD candidate (ABD) in the [School of Information Studies at Syracuse University (the iSchool)](https://ischool.syr.edu). My research sits at the intersection of computational social science, social media studies, and environmental and social justice. I'm advised by [Dr.Jeff Hemsley](https://ischool.syr.edu/jeff-hemsley/). I use both qualitative (e.g., semi-structured interview, qualitative content analysis) and quantitative (e.g., machine learning models, statistical analysis, data visualization) methods to conduct my research.
 
 ## Research
 
@@ -21,7 +21,7 @@ Greetings! I'm a PhD candidate (ABD) in the [School of Information Studies at Sy
 
 2. Quantitative Research: A study that investigates what kinds of information about #Black/Blue/AllLivesMatter got posted and spread during the Black History month of 2022. Methods: content analysis, machine learning models, and data visualization. Read our work that published in _Social Media + Society_ [here](https://journals.sagepub.com/doi/pdf/10.1177/20563051241242799).![This is an image](https://yiran-duan.github.io/images/BLM-SMS-journal-pic.png)
 
-3. Cross-platform Research: A study that explores the content of 80 Instagram Reels, TikTok videos, YouTube Shorts, and YouTube regular videos and thier 69,000+ comments about climate change using content analysis, regresions, and social network analysis. I am going to present this study at the _Association for Information Science and Technology (ASIS&T)_ conference in Calgary, Canada, in October 2024. 
+3. Cross-platform Research: A study that explores the content of 80 Instagram Reels, TikTok videos, YouTube Shorts, and YouTube regular videos and their 69,000+ comments about climate change using content analysis, regresions, and social network analysis. I just presented this study at the _Association for Information Science and Technology (ASIS&T)_ conference in Calgary, Canada, in October 2024. 
 ![This is an image](https://yiran-duan.github.io/images/asist-cross-platform.png)
 
 ## Teaching
